@@ -1,9 +1,9 @@
 .bar-header {
-  background-color: #6B8E23;
+  background-color: #5069A1;
 }
 
 ion-side-menu li .item {
-  background-color: #6B8E23;
+  background-color: #313848;
   border-color: #4F5865;
   color: #BCC3CF;
 
@@ -14,7 +14,7 @@ ion-side-menu li.item {
   }
 
 ion-side-menu li.item.item-divider {
-  background-color: #6B8E23;
+  background-color: #3E4755;
 }
 
 .ion-ionic {
@@ -65,7 +65,7 @@ ion-side-menu li.item.item-divider {
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #5069A1;
+  background: #6B8E23;
 }
 
 /* Bottom tabs selected color */
