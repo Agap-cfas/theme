@@ -3,7 +3,7 @@
 }
 
 ion-side-menu li .item {
-  background-color: #313848;
+  background-color: #6B8E23;
   border-color: #4F5865;
   color: #BCC3CF;
 
