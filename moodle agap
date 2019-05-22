@@ -14,7 +14,7 @@ ion-side-menu li.item {
   }
 
 ion-side-menu li.item.item-divider {
-  background-color: #3E4755;
+  background-color: #6B8E23;
 }
 
 .ion-ionic {
